@@ -1,0 +1,6 @@
+[book]
+authors = ["kris shen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Notes on The Rust Programming Language"
